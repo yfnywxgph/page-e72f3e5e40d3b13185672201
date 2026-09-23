@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "66f036758eee55a2c40de521",
+  "owner": "yfnywxgph",
+  "repo": "page-e72f3e5e40d3b13185672201",
+  "title": "锐星云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e72f3e5e40d3b13185672201",
+      "a": "锐星云",
+      "b": "2027官方最新地址导航",
+      "entity": "锐星云",
+      "brand": "锐星云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a332eaad9ef2bc40ab03a25e7d677dd0e4a4bb3f295f84ccd8c788620b167e2a",
+      "content": {
+        "primary_entity": "锐星云",
+        "keyword1": "锐星云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，参考对应订阅导入文档完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上锐星云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，月付分别为 ¥15、¥35 和 ¥85，按年付可享 ¥150、¥350 和 ¥850 的年度价格。流量从每月 100GB 到 1000GB，设备数量覆盖 3 台到 20 台，适合个人多设备、流媒体观看、游戏加速和小团队协作等场景。用户可根据日常流量和联网设备数选择合适档位，再按客户端文档完成订阅配置。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度对比套餐，选择与使用场景匹配的版本。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合轻量日常使用；旗舰版每月 300GB、5 台设备，覆盖流媒体与游戏加速需求。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量、20 台设备在线，并提供 VIP 专属高带宽节点与企业定制路由，适合多人协作。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，年付价格分别为 ¥150、¥350 和 ¥850，长期使用可降低月均支出。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选择",
+          "AI_FEATURE_TITLE_2": "旗舰与团队版增强",
+          "AI_FEATURE_TITLE_3": "年付价格更划算",
+          "AI_GUIDE_INTRO": "先确定套餐和适配设备，再参照客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "锐星云提供多档海外加速套餐，覆盖不同流量和在线设备数量。基础版适合轻量使用，旗舰版增加流媒体解锁与游戏专线，团队版面向多设备协作场景。选择套餐后，按所用设备对应的客户端文档配置订阅即可。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "设备数 3 台至 20 台可选",
+          "AI_HIGHLIGHT_3": "旗舰版支持流媒体与游戏加速",
+          "AI_PLANS_INTRO": "对比月付、年付、流量和在线设备数，按实际使用规模选择基础版、旗舰版或团队版。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、设备数量和流媒体或游戏需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统与客户端类型，查看对应适配要求和导入方式。",
+          "AI_STEP_TEXT_3": "按照锐星云客户端文档完成订阅导入，连接节点后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "锐星云套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "锐星云基础版适合哪些人使用？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机、平板日常浏览和轻度视频观看，若常用设备较多或流量需求大，可考虑旗舰版。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_2": "IPLC 专线针对游戏和实时通信场景做了延迟优化，旗舰版每月 300GB 流量、支持 5 台设备，适合对线路稳定性和响应速度有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版能支持多少台设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并提供 VIP 高带宽节点和企业定制路由，适合小型团队或家庭多终端环境。",
+          "AI_FAQ_QUESTION_4": "套餐按年付会更划算吗？",
+          "AI_FAQ_ANSWER_4": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省两个月费用，长期使用建议选择年付。",
+          "AI_FAQ_QUESTION_5": "订阅导入后无法使用怎么办？",
+          "AI_FAQ_ANSWER_5": "先确认客户端版本与系统要求是否匹配，再检查订阅链接是否完整复制，如仍无法使用，可通过工单联系支持人员排查线路与配置问题。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hjscp.cn",
+    "host": "hjscp.cn"
+  },
+  "file_hashes": {
+    "index.html": "ce54e249ee1c558fb2bfc6409d2db6afca68c91498a7c50ca014c9682720ce95",
+    "sitemap.xml": "949abaf73648357b0fbd213727b12ab6b91143761c097a1bad09ea11b83197c1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0145d7ebeaf1bbcf019fc26fa4bdd36ac66f798ab05fda62d80ba87d1769fb96",
+    "robots.txt": "6803a30296edff29dcbb639426f462eae24df3c983d55121ed62c7bd26d29c91",
+    "3ee949fb0da0a3fb092bb1d7477d1ace.txt": "1ca972e68a38ae29f6fb599ae8ff5d4a7b33d764e68b154fbdb06d0e66361c3e"
+  },
+  "revision": "5152d73a4a4f2030d564fa15ecae0c75c6c915be3c74a551c9edd4bd1c02af1a"
+}
